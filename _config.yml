@@ -28,9 +28,9 @@ navbar-links:
     - Program: "program"
     - Speakers: "speakers"
     - Hackathon: "hackathon"
- Interest Survey: "https://tufts.qualtrics.com/jfe/form/SV_bPJqyRNJWlVzajb"
- Sponsors: "sponsors"
-
+  Interest Survey: "https://tufts.qualtrics.com/jfe/form/SV_bPJqyRNJWlVzajb"
+  Sponsors: "sponsors"
+  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/img/avatar-icon.png"
