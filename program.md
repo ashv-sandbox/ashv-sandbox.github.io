@@ -6,7 +6,9 @@ subtitle:
 
 Note: Program sessions and topics are subject to change
 
-![](/img/day1.png)
+<img src="/img/day1.png" width="400">
 
+<img src="/img/day2.png" width="400">
 
-<img src="/img/day1.png" width="800">
+<img src="/img/day3.png" width="400">
+
