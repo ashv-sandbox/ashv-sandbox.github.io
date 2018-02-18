@@ -6,8 +6,4 @@ subtitle:
 
 Note: Program sessions and topics are subject to change
 
-![](./img/day1.png =500x800)
-
-![](./img/day2.png =500x800)
-
-![](./img/day3.png =500x800)
+<img src="img/day1.png" width="500" height="800">
