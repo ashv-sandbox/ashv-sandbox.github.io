@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NDS 2018 Hackathon 
+title: Hackathon 
 subtitle: 
 ---
 
