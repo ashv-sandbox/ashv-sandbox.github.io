@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About: "about"
   Program: "program"
-  Survey: "survey"
+  Interest Survey: "https://tufts.qualtrics.com/jfe/form/SV_bPJqyRNJWlVzajb"
   Hackathon: "hackathon"
   Sponsors: "sponsors"
 
