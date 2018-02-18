@@ -4,4 +4,4 @@ title: Speakers
 subtitle: 
 ---
 
-# COMING SOON!
+This list of speakers is non-exhaustive, and will be updated as more speakers are confirmed.
