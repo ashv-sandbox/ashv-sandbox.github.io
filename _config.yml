@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://ashv-sandbox.github.io"
+url: "https://ashv-sandbox.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: ""
 
 # Short description of your site
-description: "Nutrition Data Summit @ Tufts University"
+description: Nutrition Data Summit @ Tufts University
 
 # --- Navigation bar options --- #
 
