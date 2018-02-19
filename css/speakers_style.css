@@ -151,7 +151,8 @@ body {
 
 .row1 .col-md-3, .row2 .col-md-3 {
 	padding-bottom: 20px;
-	padding-left: -40px;
+	padding-left: 0px;
+	padding-right: 80px;
 }
 
 /* Mobile Devices Optimization */
