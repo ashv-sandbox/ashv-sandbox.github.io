@@ -28,7 +28,7 @@ navbar-links:
     - Program: "program"
     - Speakers: "speakers"
     - Hackathon: "hackathon"
-  Interest Survey: "https://tufts.qualtrics.com/jfe/form/SV_bPJqyRNJWlVzajb  target="_blank"
+  Interest Survey: "https://tufts.qualtrics.com/jfe/form/SV_bPJqyRNJWlVzajb"
   Sponsors: "sponsors"
   
 # Image to show in the navigation bar - image must be a square (width = height)
